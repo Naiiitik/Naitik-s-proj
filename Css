@@ -1,0 +1,96 @@
+h1.top{
+    font-size: 20px;
+    color: rgb(39, 37, 35);
+}
+
+.main{
+    text-align: center;
+    margin-top: 80px;
+    margin-left: 400px;
+    margin-right: 400px;
+}
+
+.op {
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+    height: 60px;
+    margin-top: 15px;
+}
+
+body {
+    background-color: rgb(255, 238, 238);
+}
+
+.top1 {
+    font-size: 25px;
+    display: inline;
+    text-align: left;
+    margin-right: 440px;
+    line-height: 60px;
+}
+
+.right {
+    display: inline;
+    text-align: right;
+    color: rgb(195, 195, 195);
+}
+
+.c1 {
+    display: inline;
+    text-align: left;
+    color: rgb(47, 91, 235);
+    margin-right: 440px;
+    line-height: 60px;
+    font-size: 20px;
+}
+
+.right1 {
+    display: inline;
+    text-align: right;
+    color: rgb(47, 91, 235);
+    font-size: 20px;
+}
+
+#why {
+    background-color: rgba(200, 213, 255, 0.934);
+}
+
+.ui {
+    height: 43px;
+    width: 43px;
+    border-radius: 5px;
+    float: left;
+    display: inline;
+    margin-top: 8px;
+    margin-left: 8px;
+}
+
+.bin {
+    height: 27px;
+    width: 22px;
+    float: right;
+    margin-right: 18px;
+    margin-top: 13px;
+}
+
+.info {
+    color: gray;
+    margin-left: 5px;
+    margin-top: 0px;
+    display: inline;
+    line-height: 20px;
+    font-size: smaller;
+}
+
+.nb {
+    display: inline;
+    font-size: larger;
+    text-align: left;
+}
+
+.horn {
+    float: left;
+    padding: 0%;
+    margin-top: 10px;
+    margin-left: 8px;
+}
